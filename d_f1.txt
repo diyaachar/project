@@ -1,5 +1,9 @@
 This is the first file
+<<<<<<< HEAD
 
 Changing the file(Goutham)
 
 
+=======
+So I am making some changes here.
+>>>>>>> ea7688194cdb7fd6d0ef14c6b4a8a3cd3a1cace6

@@ -1,7 +1,7 @@
 This is the first file
 <<<<<<< HEAD
 
-Changing the file(Goutham)
+Changing the file(Goutham)<<(editing this line)(Bhavna)
 
 
 =======

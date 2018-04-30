@@ -1,5 +1,8 @@
 This is the first file
 <<<<<<< HEAD
+I am Changing the file again(Goutham)
+=======
+<<<<<<< HEAD
 
 Changing the file(Goutham)<<(editing this line)(Bhavna)
 
@@ -7,5 +10,13 @@ Changing the file(Goutham)<<(editing this line)(Bhavna)
 =======
 So I am making some changes here.
 >>>>>>> ea7688194cdb7fd6d0ef14c6b4a8a3cd3a1cace6
+<<<<<<< HEAD
 
 akhila here
+=======
+>>>>>>> 8f345fbd63900ece46fcbe5a2f96ac7f9287480e
+>>>>>>> e42101d9ee5baab5a9b4f2be2cec3bc615afbc1c
+
+
+
+Akhilaaaaaaaaaaaaaaaa
